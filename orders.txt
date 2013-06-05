@@ -1,0 +1,22 @@
+Z:\a. omega files\omega.knt 
+Z:\b. bookmarks. exported\bookmarks.html
+Z:\h. Firefox Profiles\MH_2013_05_18\*.*
+Z:\i. Thunderbird Profiles\MH_THUNDERBIRD_2013_03_24\*.*
+Z:\r. resumes\*.odt
+Z:\r. resumes\*.doc
+Z:\t. Tor Browser\*.*
+Z:\u. utility install files\*.*
+Z:\x. Desert Island Music\*.*
+D:\rational files\steam\steamapps\common\Team Fortress 2\tf\cfg\*.*
+C:\Users\rational being\Documents\Eve.ods
+C:\Users\rational being\Documents\Ship Sales.ods
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_01_tranquility\settings\*.dat
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_02_tranquility\settings\*.dat
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_03_tranquility\settings\*.dat
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_04_tranquility\settings\*.dat
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_05_tranquility\settings\*.dat
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_01_tranquility\settings\*.ini
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_02_tranquility\settings\*.ini
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_03_tranquility\settings\*.ini
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_04_tranquility\settings\*.ini
+C:\Users\rational being\AppData\Local\CCP\EVE\c_ccp_eve_05_tranquility\settings\*.ini
